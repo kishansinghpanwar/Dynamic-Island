@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicIslandMine</string>
+    <string name="pref_disclosure">Disclose</string>
+</resources>
